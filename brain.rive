@@ -1,0 +1,17 @@
+// Chatbot's brain
+! version = 2.0
+
+! sub who's = who is
+
++ *
+- prueba a poner paso 1
+
++ [*] paso 1 [*]
+- Paso 1, abra ajustes en el dashboard del software del microondas. Tendrá un ip por default 10.10.10.10. 
+
++ [*] paso 2 [*]
+- Paso 2, cambia la ip a tu red local y pordras conectarlo ya sea a tu Alexa u otro dispositivo. 
+
++ [*] paso 3 [*]
+- Paso 3, asegurate de que puedas tener conexión entre los puntos de internet y dale a nuestro botón de pruebas
+
